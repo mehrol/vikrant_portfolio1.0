@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/vikrant.jpg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+    <!-- Primary Meta Tags -->
+    <title>Vikrant Portfolio Website</title>
+    <meta name="title" content="Vikrant Portfolio Website" />
+    <meta name="description"
+      content="View the portfolio of Vikrant, a IT Specialist showcasing projects, skills, and expertise in IT industrory and DevOps Platform." />
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://github.com/mehrol/GITPULL_Docker_YML_File" />
+    <meta property="og:title" content="Vikrant Portfolio Website" />
+    <meta property="og:description"
+      content="View the portfolio of Mukul Kumar, a software developer showcasing projects, skills, and expertise in full stack web development." />
+    <meta property="og:image" content="%PUBLIC_URL%/portfolio.png" />
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="https://mukulninjas.github.io/portfolio2.0/" />
+    <meta property="twitter:title" content="Mukul Kumar Portfolio Website" />
+    <meta property="twitter:description"
+      content="View the portfolio of Mukul Kumar, a software developer showcasing projects, skills, and expertise in full stack web development." />
+    <meta property="twitter:image" content="%PUBLIC_URL%/portfolio.png" />
+    
+    <!-- Meta Tags Generated with https://metatags.io -->
+ <!--  <link rel="manifest" href="%PUBLIC_URL%/manifest.json" /> 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css"
+      integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ=="
+      crossorigin="anonymous" referrerpolicy="no-referrer" /> -->
+	<link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css"
+      integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ=="
+      crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <title>Vikrant's Portfolio</title>
+  </head>
+  <body className="dark">
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+  </body>
+</html>
