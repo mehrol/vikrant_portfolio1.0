@@ -87,11 +87,11 @@ const Hero = () => {
             <div className="m-auto">
                 <div className="flex flex-col md:flex-row items-center">
                     <div className="w-full md:w-1/2 ">
-                        <img className="motion-reduce:animate-bounce" src={vikrant} />
+                        <img className="animate-slide" src={vikrant} />
                     </div>
                     <div className="w-full md:w-1/2 space-y-3">
                         <span className="text-4xl font-semibold text-slate-600 dark:text-slate-100">Hello<span className="font-extrabold text-purple-600">_</span></span>
-                        <h1 className="text-slate-700 font-extrabold h-32 text-5xl dark:text-slate-100">I'm <span className="bg-gradient-to-r from-purple-600 to-blue-600 inline-block text-transparent bg-clip-text" id="typewriter">Software Engineer</span></h1>
+                        <h1 className="text-slate-700 font-extrabold text-5xl dark:text-slate-100">I'm </h1><span className="bg-gradient-to-r from-purple-600 to-blue-600 inline-block font-extrabold h-32 text-3xl md:text-5xl text-transparent bg-clip-text min-h-20 h-30" id="typewriter">Software Engineer</span>
                         <p className="text-2xl text-slate-600 dark:text-slate-100">IT Engineer Redhat system administrator Certified and a Technologies Enthusiast with strong technical skills anchored
                             on
                             extensive engineering coursework and a special focus on DevOps Automation. Let's

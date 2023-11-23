@@ -8,16 +8,16 @@ const Bio = () => {
       </div>
       <div className="flex flex-col md:flex-row">
         <div className="w-full md:w-1/2 flex flex-col items-center py-10 space-y-6 m-auto">
-          <div className="text-5xl font-bold text-slate-700 dark:text-slate-100">
+          <div className="text-3xl md:text-5xl font-bold text-slate-700 dark:text-slate-100">
             <p >DevOps Engineer, </p>
           </div>
-          <div className="text-5xl font-bold text-slate-700 dark:text-slate-200">
+          <div className="text-3xl md:text-5xl font-bold text-slate-700 dark:text-slate-200">
             <p >IT Specialist</p>
           </div>
-          <div className="text-4xl font-semibold text-slate-700 dark:text-slate-200">
+          <div className="text-2xl md:text-4xl font-semibold text-slate-700 dark:text-slate-200">
             <p >and </p>
           </div>
-          <div className="text-5xl font-bold text-slate-700 dark:text-slate-200">
+          <div className="text-3xl md:text-5xl font-bold text-slate-700 dark:text-slate-200">
             <p >Linux Administrator</p>
           </div>
         </div>
