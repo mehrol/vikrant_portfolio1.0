@@ -5,7 +5,7 @@ const Projects = () => {
   const projects = [
     {
       title: 'Automation Deopoyement',
-      subtitle: 'Ticketing Portal Deopoyement Scripts',
+      subtitle: 'Portfolio Depoyement on github',
       img_url: 'Portfolio-Image.png',
       source_code: 'https://github.com/mehrol/GITPULL_Docker_YML_File',
       live: 'https://github.com/mehrol/GITPULL_Docker_YML_File/#project'
@@ -16,13 +16,13 @@ const Projects = () => {
       img_url: 'wittyems.png',
       live: 'https://www.wittyems.in/#project'
     },
-    {
-      title: 'Witty-Ticketing Deployement',
-      subtitle: 'Witty-Ticketing project Deployement',
-      img_url: 'Algo-Visualizer.png',
-      source_code: 'https://github.com/Mukulninjas/sorting-algo',
-      live: 'https://mukulninjas.github.io/sorting-algo/'
-    }
+    //{
+     // title: 'Witty-Ticketing Deployement',
+      //subtitle: 'Witty-Ticketing project Deployement',
+      //img_url: 'Algo-Visualizer.png',
+      //source_code: 'http://github.com/mehrol',
+      //live: 'http://github.com/mehrol'
+    //}
   ];
 
   return <div className="col-start-2 col-end-8">
