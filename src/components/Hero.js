@@ -100,8 +100,9 @@ const Hero = () => {
                         <div className="">
                             <button className="w-52 h-16 bg-slate-600 shadow-xl shadow-slate-600 dark:shadow-slate-950 text-slate-50 text-2xl font-semibold font-serif transition ease-in-out hover:-translate-y-1 hover:scale-110 hover:bg-gradient-to-r hover:from-purple-600 hover:to-blue-600 duration-200"><a
                                 href="https://drive.google.com/file/d/1aAPwEGWZDqYy0s2yezbO6Ectf2o_aYQS/view?usp=sharing"
-                                target="_blank"
-                                download>Download CV</a></button>
+                                target="_blank" rel="noopener noreferrer"
+                                className="w-52 h-16 flex items-center justify-center bg-slate-600 shadow-xl shadow-slate-600 dark:shadow-slate-950 text-slate-50 text-2xl font-semibold font-serif transition ease-in-out hover:-translate-y-1 hover:scale-110 hover:bg-gradient-to-r hover:from-purple-600 hover:to-blue-600 duration-200"
+                                download>Download CV</a></button>                  
                         </div>
                         <section className="space-x-5 text-5xl bg-gradient-to-r from-purple-600 to-blue-600 inline-block text-transparent bg-clip-text py-10">
                             <a href="https://www.linkedin.com/in/vikrant-mehrol-1a92b4111/"><i className="fab fa-linkedin transition ease-in-out delay-100 hover:-translate-y-1 hover:scale-110 hover:bg-gradient-to-r hover:from-purple-600 hover:to-blue-600 hover:inline-block hover:text-transparent hover:bg-clip-text duration-200"></i></a>
