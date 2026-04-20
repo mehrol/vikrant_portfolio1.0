@@ -69,9 +69,8 @@ return ( <div className="col-start-2 col-end-8"> <div className="min-h-screen fl
 
   </div>
 </div>
-```
-
 );
+
 };
 
 export default Projects;
